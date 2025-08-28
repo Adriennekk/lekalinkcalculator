@@ -1,0 +1,60 @@
+﻿Picture,,Cloud Pricing,,,
+,,,,,
+Virtiual Data Centre Calculator,,,,,
+,,,,,
+Description,QTY,Unit Once-off,Total Once-off,Unit Monthly,Total Monthly
+,,,,,
+Cloud Hosting - Virtual Data Centre,,,,,
+Virtual Data Centre(Allocation Resource Pool),,R0.00,R0.00,R365.00,R0.00
+Linux CPU (per 2Ghz),,R0.00,R0.00,R78.65,R0.00
+"Windows CPU (per 2Ghz)
+Includes: Base OS License
+Excludes: SQL & RDS",,R0.00,R0.00,R102.85,R0.00
+vRAM(GB),,R0.00,R0.00,R72.00,R0.00
+vStorage - NVME/SSD,,R0.00,R0.00,R0.85,R0.00
+Multicloud Integrator (Per VM),,R0.00,R0.00,R245.00,R0.00
+Windows Server licences ,Included,,,,
+vDC Management Portal,Included,,,,
+Shared Firewall,Included,,,,
+"* Customer can use own Microsoft licences (except for Windows Server and Office), if customer has software assurance and licence portability in Microsoft agreement. The use of cloud licencing for Windows server and office is a requirement *",,,,,
+Sub-Total,,R0.00,,R0.00,
+,,,,,
+Cloud Hosting - Managed Backups,,,,,
+Cloud Backup - Software (per Cloud Server),,R0.00,R0.00,R205.00,R0.00
+Cloud Backup - Storage per GB (Usage Based),,R0.00,R0.00,R0.55,R0.00
+Standard 3 week retention,Included,,,,
+Backup Management (7am to 7pm Weekdays),Included,,,,
+Unlimited restores,Included,,,,
+Sub-Total,,R0.00,,R0.00,
+,,,,,
+Datacentre Connectivity,,,,,
+Internet Traffic Shared - Unlimited,,R0.00,R0.00,R365.00,R0.00
+"Internet Traffic Dedicated
+100Mb - 1Gb Variable Billing",,R0.00,R0.00,R550.00,R0.00
+Sub-Total,,R0.00,,R0.00,
+,,,,,
+IP Addresses & Leka Vlans ,,,,,
+"IP Address/32,31,30",,R880.00,R0.00,R245.00,R0.00
+IP Address/29,,R880.00,R0.00,R735.00,R0.00
+IP Address/28,,R880.00,R0.00,"R1,420.00",R0.00
+"IP Address/27,26,25,24",On Request,,,,
+VLAN Primary,,"R1,650.00",R0.00,R100.00,R0.00
+VLAN Secondary,,"R1,650.00",R0.00,R100.00,R0.00
+Sub-Total,,R0.00,,R0.00,
+,,,,,
+Infrastructure Provisioning ,,,,,
+Initial Staging ,,R850.00,R0.00,R0.00,R0.00
+Professional Services (per Hour),,R850.00,R0.00,R0.00,R0.00
+Sub-Total,,R0.00,,R0.00,
+,,,,,
+Total Excluding VAT,,R0.00,,R0.00,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

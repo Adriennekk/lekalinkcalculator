@@ -1,0 +1,10 @@
+credentials:
+  usernames:
+    lekalink_admin:
+      email: admin@lekalink.com
+      name: LekaLink Admin
+      password: '123'  # replace with a hashed password for production
+cookie:
+  name: lekalink_auth
+  key: lekalink_key
+  expiry_days: 1

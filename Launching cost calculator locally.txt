@@ -1,0 +1,5 @@
+cd C:\Users\Adriennek\Downloads\cloud_cost_calculator
+
+streamlit run app.py
+
+http://localhost:8501
