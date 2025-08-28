@@ -376,8 +376,8 @@ def send_email_to_sales(quote_data, pdf_data):
     """Send quote details and PDF to sales team via Gmail SMTP"""
     
     # Gmail Configuration with provided credentials
-    GMAIL_EMAIL = "saleslekalink@gmail.com"
-    GMAIL_PASSWORD = "lqbg ciek octw bbtb"  # App Password (16 chars, with spaces)
+    GMAIL_EMAIL = st.secrets["gmail"]["email"]
+    GMAIL_PASSWORD = st.secrets["gmail"]["app_password"]
     SMTP_SERVER = "smtp.gmail.com"
     SMTP_PORT = 587
     SALES_EMAIL = "sales@lekalink.co.za"
